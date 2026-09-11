@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model weights download on first use
+*.pt
+*.pth
+*.safetensors
+
+# Media and run artifacts live under each project's data/ (see running/.gitignore)
+
+# OS noise
+.DS_Store
+Thumbs.db

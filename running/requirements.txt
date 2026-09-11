@@ -1,0 +1,12 @@
+numpy
+opencv-python
+pillow
+matplotlib
+rich
+python-dotenv
+openai>=1.40
+ultralytics
+torch
+torchvision
+transformers>=4.48
+scipy
